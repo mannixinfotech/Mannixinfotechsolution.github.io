@@ -1023,7 +1023,8 @@ form .button-area {
   right: 2rem;
   padding: 1rem 1.5rem;
   font-size: 2rem;
-  background: #ff5349;
+  background-color: #ff5349;
+  
   color: rgb(13, 0, 44);
   border-radius: 50%;
   transition: 1s linear;
