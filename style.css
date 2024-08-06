@@ -97,7 +97,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: orangred;
+  color: #FF5349;
 }
 header .navbar ul {
   list-style: none;
@@ -118,8 +118,8 @@ header .navbar ul li a {
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
-  color: orangred;
-  border-bottom: 0.2rem solid orangred;
+  color: #FF5349;
+  border-bottom: 0.2rem solid #FF5349;
   padding: 0.5rem 0;
 }
 /* navbar ends */
@@ -382,7 +382,7 @@ header .navbar ul li a:hover {
   padding: 3rem;
 }
 .about .row .content h3 {
-  color:orangred;
+  color:#FF5349;
   font-size: 2.5rem;
 }
 .about .row .content .tag {
@@ -926,7 +926,7 @@ form .button-area {
 }
 .footer .box-container .box p i {
   padding-right: 1rem;
-  color: orangred;
+  color: #FF5349;
 }
 .footer .box-container .box a {
   font-size: 1.5rem;
@@ -935,7 +935,7 @@ form .button-area {
   display: block;
 }
 .footer .box-container .box a:hover {
-  color: orangred;
+  color: #FF5349;
 }
 .footer .box-container .box .share {
   display: flex;
@@ -959,7 +959,7 @@ form .button-area {
   background: transparent;
   transform: scale(0.98);
   border: 0.1rem solid rgb(180, 178, 178);
-  color: orangred;
+  color: #FF5349;
 }
 .footer .credit {
   padding: 1rem 0 0 0;
@@ -971,7 +971,7 @@ form .button-area {
   border-top: 0.1rem solid #fff3;
 }
 .footer .credit a {
-  color: orangred;
+  color: #FF5349;
 }
 .footer .fa {
   color: #e90606;
