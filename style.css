@@ -162,7 +162,7 @@ header .navbar ul li a:hover {
     display: block;
     padding: 1rem;
     text-align: left;
-    color: #fff;
+    color:black;
     font-size: 2rem;
   }
   header .navbar ul li a.active,
