@@ -675,7 +675,7 @@ header .navbar ul li a:hover {
   left: -16px;
 }
 .experience .content {
-  background-color: rgb(240, 232, 232) ;
+  background-color: rgb(240, 232, 232)!important ;
   position: relative;
   border-radius: 6px;
 }
