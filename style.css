@@ -130,7 +130,7 @@ header .navbar ul li a:hover {
   font-size: 3rem;
   cursor: pointer;
   /* color: rgb(24, 2, 63); */
-  color:white;
+  color: white !important;
   display: none;
 }
 @media (max-width: 768px) {
