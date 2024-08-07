@@ -411,7 +411,7 @@ header .navbar ul li a:hover {
   text-transform: none;
 }
 .about .row .content .box-container .box p span {
-  color: #ffd900;
+  color: #f68c09;
 }
 .resumebtn {
   margin-top: 6rem;
@@ -421,7 +421,7 @@ header .navbar ul li a:hover {
   border-radius: 0.5em;
   transition: 0.3s;
   color: black;
-  background:#ffd900;
+  background:#f68c09;
   box-shadow: 0px 5px 10px rgba(196, 26, 26, 0.6);
   font-family: "Nunito", sans-serif;
 }
